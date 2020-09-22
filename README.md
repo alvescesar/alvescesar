@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! Welcome to my GitHub! 👋
+My name is César, I'm a full-stack web development student at Trybe.
+I'm a professional composer, specialized in video game audio who is transitioning to a career in tech!
 
 <!--
 **alvescesar/alvescesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
