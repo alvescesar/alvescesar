@@ -1,5 +1,5 @@
 ### Hello! Welcome to my GitHub! 👋
-My name is César, I'm a full-stack web development student at Trybe.
+My name is César, I'm a full-stack web developer.
 I'm a professional composer, specialized in video game audio who is transitioning to a career in tech!
 
 <!--
