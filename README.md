@@ -1,5 +1,5 @@
 ### Hello! Welcome to my GitHub! 👋
-My name is César, I'm a full-stack web developer.
+My name is César, I'm a front-end developer.
 I'm a professional composer, specialized in video game audio who has transitioned to a career in tech!
 
 #### Stack
